@@ -1,0 +1,17 @@
+# Скомпилированные модули
+*.so
+*.so.*
+
+# Makefile
+Makefile
+*.o
+
+# Pro.user
+*.user
+
+# Темп файлы ОС
+*~
+.directory
+
+# Папки
+Create-Install
