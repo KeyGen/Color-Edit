@@ -16,3 +16,5 @@ SOURCES += main.cpp\
 HEADERS  += coloredit.h
 
 FORMS    += coloredit.ui
+
+DESTDIR = $$PWD/../Color-Edit
